@@ -2,7 +2,7 @@
 |:-------------:|
 | Having fun while learning? rossatoe's Data Man version made it possible |
 
-!DataMan Toy
+<img src="DataManImage" alt="DataMan Toy" width="300"/>
 
 ### Introduction
 Do you ever thought about a toy that can help your kids improving at school while having fun? Or make your job as a father easier at the time to teach you kids math? Well, we brought your solution.
