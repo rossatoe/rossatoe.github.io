@@ -2,7 +2,7 @@
 |:-------------:|
 | Having fun while learning? rossatoe's Data Man version made it possible |
 
-###Introduction
+### Introduction
 Do you ever thought about a toy that can help your kids improving at school while having fun? Or make your job as a father easier at the time to teach you kids math? Well, we brought your solution.
 No more fights or argues with your kids to make them learn, it's your time to relax and let the tutor job to our brand new DataMan!
 On this page, I'll explain you and list you what my Data Man let you do and why you should get it for your kids.
