@@ -1,10 +1,9 @@
 <div style="text-align: center;">
   <h1>DataMan</h1>
+  | |
+  |:-------------:|
+  | Having fun while learning? rossatoe's Data Man version made it possible |
 </div>
-
-| |
-|:-------------:|
-| Having fun while learning? rossatoe's Data Man version made it possible |
 
 #### Introduction
 Do you ever thought about a toy that can help your kids improving at school while having fun? Or make your job as a father easier at the time to teach you kids math? Well, we brought your solution.
