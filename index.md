@@ -1,4 +1,4 @@
-| DataMan |
+# | DataMan |
 |:-------------:|
 | Having fun while learning? rossatoe's Data Man version made it possible |
 
