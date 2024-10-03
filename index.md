@@ -1,4 +1,10 @@
-| DataMan |
+<div style="text-align: center;">
+  <h1>DataMan</h1>
+</div>
+
+Some more regular text.
+
+
 |:-------------:|
 | Having fun while learning? rossatoe's Data Man version made it possible |
 
