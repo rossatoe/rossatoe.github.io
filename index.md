@@ -1,5 +1,4 @@
-<h1 style="text-align: center;">DataMan</h1>
-| |
+| DataMan|
 |:-------------:|
 | Having fun while learning? rossatoe's Data Man version made it possible |
 
