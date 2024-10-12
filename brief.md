@@ -1,5 +1,5 @@
 # Creative Brief for DataMan Slim
-<img src="DMSimg.png" width="400"></img>
+<img src="DMSimg.png" width="400">
 ## 1. Brand Overview
 
 **Company/Organization Name:** DataMan Toys
