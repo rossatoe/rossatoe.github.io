@@ -1,4 +1,4 @@
-| DataMan|
+| DataMan Slim|
 |:-------------:|
 | Having fun while learning? rossatoe's Data Man version made it possible |
 
@@ -24,6 +24,7 @@ On this page, I'll explain you and list you what my Data Man let you do and why 
 ---
 
 #### Learn More
+- You can check our brief [here](brief.md).
 - If you are interested on this program, please contact us via rossatoe4232@student.faytechcc.edu.
 - If you want to check the DataMan program, you can visit [my repository](https://github.com/rossatoe/CTS285/tree/main/dataMan)
 - To share an opinion and give advices, you can post a comment here "comment page".
